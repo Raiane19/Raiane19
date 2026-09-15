@@ -99,17 +99,25 @@ Utilizar recursos de inteligência artificial para auxiliar no processamento e i
 
 ---
 
-# 📊 GitHub Analytics
+# 🐍 Minhas Contribuições
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raiane19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Raiane19/Raiane19/output/github-snake-dark.svg">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiane19&layout=compact&theme=tokyonight&hide_border=true"/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Raiane19/Raiane19/output/github-snake.svg">
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Raiane19/Raiane19/output/github-snake.svg">
+</picture>
 
 </div>
-
----
 
 # 🔥 GitHub Streak
 

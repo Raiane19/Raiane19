@@ -99,22 +99,27 @@ Utilizar recursos de inteligência artificial para auxiliar no processamento e i
 
 ---
 
-# 🐍 Minhas Contribuições
+
+
+<h2>🐍 Minhas Contribuições</h2>
 
 <div align="center">
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Raiane19/Raiane19/output/github-snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/Raiane19/Raiane19/output/github-snake-dark.svg"
+  />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Raiane19/Raiane19/output/github-snake.svg">
+    srcset="https://raw.githubusercontent.com/Raiane19/Raiane19/output/github-snake.svg"
+  />
 
   <img
     alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Raiane19/Raiane19/output/github-snake.svg">
+    src="https://raw.githubusercontent.com/Raiane19/Raiane19/output/github-snake.svg"
+  />
 </picture>
 
 </div>

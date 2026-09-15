@@ -1,14 +1,17 @@
 <div align="center">
 
 <!-- Banner superior -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:007F86&height=200&section=header&text=Raiane%20dos%20Santos&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20em%20forma%C3%A7%C3%A3o&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:6D28D9&height=200&section=header&text=Raiane%20dos%20Santos&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20em%20forma%C3%A7%C3%A3o&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
 
 <!-- Animação -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+a+Raiane+%F0%9F%91%8B;Tecnologia+%7C+Programa%C3%A7%C3%A3o+%7C+Desenvolvimento+%F0%9F%92%BB;Construindo+solu%C3%A7%C3%B5es+com+tecnologia+%F0%9F%9A%80;Sempre+aprendendo+e+evoluindo+%F0%9F%8C%B1" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF4FA3&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+a+Raiane+%F0%9F%91%8B;Tecnologia+%7C+Programa%C3%A7%C3%A3o+%7C+Desenvolvimento+%F0%9F%92%BB;Construindo+solu%C3%A7%C3%B5es+com+tecnologia+%F0%9F%9A%80;Sempre+aprendendo+e+evoluindo+%F0%9F%8C%B1" alt="Typing SVG">
+
+</div>
+
 
 </div>
 
@@ -167,10 +170,9 @@ Construir soluções **criativas e funcionais** através da programação, evolu
 </div>
 
 ---
-
 <div align="center">
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007F86,100:00C896&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:3B82F6&height=120&section=footer" width="100%"/>
 
 </div>
